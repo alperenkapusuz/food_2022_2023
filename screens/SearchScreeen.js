@@ -12,6 +12,8 @@ const SearchScreen = ()=>{
     
     //i am working on it
     
+    //useEffect
+    
 
     const searchApi = async(searchTerm)=>{
         console.log('Search Started');
